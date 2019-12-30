@@ -1,0 +1,20 @@
+{
+    "name": "whilesun/php-excel-writer",
+    "description": "this is excel export",
+    "type": "1",
+    "require": {
+        "php": ">=5.2"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "WhileSun",
+            "email": "1207460050@qq.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"ws\\excel\\writer\\" : "src"
+		}
+	}
+}
