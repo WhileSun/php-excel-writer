@@ -3,6 +3,7 @@ namespace ws\excel\writer;
 use XLSXWriter;
 /**
  * xlsxWriter导出
+ * @author whilesun
  */
 Class Export{
 
